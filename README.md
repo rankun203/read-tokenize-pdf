@@ -21,7 +21,7 @@ A simple tool to extract text from PDF files and count tokens using the tiktoken
 1. Clone this repository:
 
    ```bash
-   git clone <repository-url>
+   git clone read-tokenize-pdf
    cd read-tokenize-pdf
    ```
 
